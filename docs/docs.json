@@ -943,6 +943,7 @@
                 "pages": [
                   "pi",
                   "concepts/architecture",
+                  "concepts/codebase-architecture",
                   "concepts/agent",
                   "concepts/agent-loop",
                   "concepts/system-prompt",
