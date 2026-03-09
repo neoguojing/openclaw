@@ -943,10 +943,13 @@
                 "pages": [
                   "pi",
                   "concepts/architecture",
+                  "concepts/codebase-architecture",
                   "concepts/agent",
+                  "concepts/agents-architecture",
                   "concepts/agent-loop",
                   "concepts/system-prompt",
                   "concepts/context",
+                  "concepts/context-engine-architecture",
                   "concepts/agent-workspace",
                   "concepts/oauth"
                 ]
@@ -962,6 +965,7 @@
                   "concepts/session-pruning",
                   "concepts/session-tool",
                   "concepts/memory",
+                  "concepts/memory-engine-architecture",
                   "concepts/compaction"
                 ]
               },
@@ -1542,10 +1546,13 @@
                 "pages": [
                   "zh-CN/pi",
                   "zh-CN/concepts/architecture",
+                  "zh-CN/concepts/codebase-architecture",
                   "zh-CN/concepts/agent",
+                  "zh-CN/concepts/agents-architecture",
                   "zh-CN/concepts/agent-loop",
                   "zh-CN/concepts/system-prompt",
                   "zh-CN/concepts/context",
+                  "zh-CN/concepts/context-engine-architecture",
                   "zh-CN/concepts/agent-workspace",
                   "zh-CN/concepts/oauth"
                 ]
@@ -1561,6 +1568,7 @@
                   "zh-CN/concepts/session-pruning",
                   "zh-CN/concepts/session-tool",
                   "zh-CN/concepts/memory",
+                  "zh-CN/concepts/memory-engine-architecture",
                   "zh-CN/concepts/compaction"
                 ]
               },
